@@ -11,4 +11,4 @@
 
 
 Enter your task in the input area and then click outside the input area 
-to add task and click on the delete button to delete task
+to add task and click on the delete button to delete task# Reducer-TODO
